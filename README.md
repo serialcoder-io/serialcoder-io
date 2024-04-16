@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **CS50 w project2: commerce**
 
+- 🌱 I’m currently learning **react.js**
+
 - 💬 Ask me about **python, django, javascript**
 
 - 📫 How to reach me **omaranli56@gmail.com**
