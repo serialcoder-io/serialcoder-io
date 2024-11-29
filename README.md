@@ -75,7 +75,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anliomar-dev&show_icons=true&locale=en" alt="anliomar-dev" /></p>
+<div style="display: flex;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anliomar-dev&show_icons=true&locale=en" alt="anliomar-dev" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anliomar-dev&show_icons=true&locale=en&layout=compact" alt="anliomar-dev" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anliomar-dev&" alt="anliomar-dev" /></p>
+</div>
+
