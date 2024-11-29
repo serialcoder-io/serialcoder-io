@@ -13,9 +13,9 @@
 
 <p>
   I'm a passionate Full Stack Developer with a strong focus on building efficient and scalable web applications. I specialize in creating dynamic and interactive frontends using 
-  <strong>React.js</strong> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="20"/> </a>
-  and <strong>Next.js</strong> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="20"/>, and I build robust backends using 
-  <strong>Django</strong> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="20"/> 
+  <strong>React.js</strong> <a href="https://react.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="20"/> </a>
+  and <strong>Next.js</strong><a href="https://nextjs.org/"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="20"/></a>, and I build robust backends using 
+  <strong>Django</strong> <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="20"/> </a>
   and <strong>Django REST Framework (DRF)</strong> <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" height="20"/>. Whether you're looking for a complete full-stack solution or a RESTful API, I can deliver projects that meet both technical and business needs.
 </p>
 
