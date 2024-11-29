@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm omar</h1>
-<h3 align="center">django and react.js/next.js full stack developper</h3>
+<h1 align="center">Hi 👋, I'm Omar</h1>
+<h3 align="center">Full Stack Developer specializing in Django, React.js, and Next.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anliomar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anliomar-dev" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=anliomar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anliomar-dev" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anliomar-dev" alt="anliomar-dev" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anliomar-dev" alt="anliomar-dev" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **CS50 w project2: commerce**
+<p>
+  I'm a passionate Full Stack Developer with a strong focus on building efficient and scalable web applications. I specialize in creating dynamic and interactive frontends using 
+  <strong>React.js</strong> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="20"/> 
+  and <strong>Next.js</strong> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="20"/>, and I build robust backends using 
+  <strong>Django</strong> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="20"/> 
+  and <strong>Django REST Framework (DRF)</strong> <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" height="20"/>. Whether you're looking for a complete full-stack solution or a RESTful API, I can deliver projects that meet both technical and business needs.
+</p>
 
-- 💬 Ask me about **python/django/drf, javascript/react/next.js**
+- 💬 Feel free to ask me about **Python** <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="20"/>, **Django/DRF** <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="20"/><img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" height="20"/>, **JavaScript** <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="20"/>, **React** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="20"/>, **Next.js** <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="20"/>.
 
-- 📫 How to reach me **omaranli.dev@gmail.com**
+- 🚀 I build **REST APIs** <img src="https://img.shields.io/badge/API-FF9900?style=for-the-badge&logo=api&logoColor=white" alt="API" height="20"/>, full-stack applications using **React/Django** <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="20"/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="20"/> or **Next.js/DRF** <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="20"/><img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" height="20"/>, and other scalable solutions tailored to your needs.
+
+- 📫 You can reach me at **omaranli.dev@gmail.com** for collaboration or inquiries.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
