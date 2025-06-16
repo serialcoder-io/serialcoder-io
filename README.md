@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Omar 👋</h1>
-<h3 align="center">Full Stack Developer — Django & React/Next.js</h3>
+<h3 align="center">Django Developper</h3>
 
 ---
 
 ### 🛠️ Tech Stack
 - 🐍 Python, Django, DRF  
 - ⚛️ React.js, Next.js  
-- 💅 Tailwind, Bootstrap  
+- 💅 Tailwind
 - 🐘 PostgreSQL, MySQL, SQLite  
 - 🐳 Docker, Git
 
