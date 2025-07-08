@@ -28,5 +28,5 @@
 ---
 
 ### 📫 Contact
-- 📧 omaranli.dev@gmail.com  
+- 📧 anliomar@outlook.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-anli-25215b2b2/)
